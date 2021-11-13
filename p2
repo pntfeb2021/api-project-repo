@@ -1,5 +1,3 @@
-cat /etc/os-rel*
-lscpu
-lshw
+lshw: h/w info
 top
 
