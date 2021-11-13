@@ -1,1 +1,5 @@
-dafdfadsffdgfd
+cat /etc/os-rel*
+lscpu
+lshw
+top
+
