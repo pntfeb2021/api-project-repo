@@ -1,4 +1,6 @@
-uptime
-uname -a
 df -h
+this is the cmd used to list out the filesystems
+
+uptime is the best way to know abt the server load
+
 

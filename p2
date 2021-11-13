@@ -1,5 +1,7 @@
 cat /etc/os-rel*
-lscpu
+lscpu: listout the available cpu's info
+
+
 lshw
-top
+top list out the top cpu usage process
 
